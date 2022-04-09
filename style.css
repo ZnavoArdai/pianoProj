@@ -1,0 +1,157 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color:#405378;
+}
+
+.container{
+    display: flex;
+position: relative;
+}
+
+.white{
+    background-color: #ffffff;
+height: 30vh;
+width: 5vw;
+border: 0.2vh solid ;
+border-radius: 1vh;
+box-shadow:2px 7px 8px black;
+
+
+}
+.white:hover{
+    background-color:rgb(159, 157, 157);
+}
+.black{
+    background-color: #000000;
+height: 20vh;
+width: 2.5vw;
+position: absolute;
+border-radius: 1vh;
+box-shadow:2px 7px 8px rgb(48, 47, 47);
+
+}
+.black:hover{
+background-color: rgb(132, 129, 129);}
+.b1{
+    right: 60px;
+}
+
+
+.b2{
+    right: 140px;
+}
+.b3{
+    right: 220px;
+}
+.b3{
+    right: 380px;
+}
+.b4{
+    right: 460px;
+}
+.b5{
+    right: 540px;
+}
+.b5{
+    right: 700px;
+}
+.b6{
+    right: 780px;
+}
+
+
+.wi1{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 30px;
+bottom: 0;    
+}
+.wi2{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 110px;
+bottom: 0;    
+}
+.wi3{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 190px;
+bottom: 0;    
+}
+.wi4{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 265px;
+bottom: 0;    
+}
+.wi5{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 350px;
+bottom: 0;    
+}
+.wi6{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 425px;
+bottom: 0;    
+}
+.wi7{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 510px;
+bottom: 0;    
+}
+.wi8{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 590px;
+bottom: 0;    
+}
+.wi9{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 665px;
+bottom: 0;    
+}
+.wi10{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 750px;
+bottom: 0;    
+}
+.wi11{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    right: 825px;
+bottom: 0;    
+}
+.bi{
+    position:absolute;
+width: 20px;
+height: 20px;
+bottom:0;
+right:10px;
+}
+
+
+
